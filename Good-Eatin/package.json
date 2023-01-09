@@ -27,7 +27,7 @@
     "angularfire2": "^5.1.1",
     "core-js": "^2.5.4",
     "firebase": "^5.8.0",
-    "firebase-admin": "^6.5.0",
+    "firebase-admin": "^11.4.1",
     "firebaseui": "^3.5.2",
     "font-awesome": "^4.7.0",
     "ionic": "^4.10.2",
